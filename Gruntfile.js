@@ -106,3 +106,10 @@ module.exports = function(grunt) {
   // Date: 28-11-2016.
   // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   grunt.initConfig(config);
+  
+  // 2. load-grunt-tasks ——> $ npm install load-grunt-tasks --save-dev
+  // -----------------------------------------------------------------
+  // Load multiple grunt tasks using globbing patterns.
+  require('load-grunt-tasks')(grunt, {
+    scope: ['devDependencies', 'dependencies']
+  });

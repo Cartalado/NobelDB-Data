@@ -54,3 +54,5 @@ var okay     = chalk.blue;
 // All Grunt Operations Defined... |--------------------------------------------| 28/Nov/2016 | SEED™ — Umeå.
 //                           Copyright © 2016, Prabhat Kumar, All rights reserved.
 // ----------------------------------------------------------------------------------------------------------
+
+module.exports = function(grunt) {

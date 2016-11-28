@@ -59,3 +59,8 @@ module.exports = function(grunt) {
   
   // Force use of Unix newlines.
   grunt.util.linefeed = '\n';
+  
+  // 1. time-grunt ——> $ npm install time-grunt --save-dev
+  // -----------------------------------------------------
+  // Display the elapsed execution time of grunt tasks.
+  require('time-grunt')(grunt);

@@ -30,3 +30,7 @@
  */
 
 module.exports = function(grunt) {
+  
+  // To load required NPM modules.
+  // -----------------------------
+  var chalk    = require('chalk');

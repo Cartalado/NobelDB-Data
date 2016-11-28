@@ -59,3 +59,4 @@ module.exports = function(grunt) {
   grunt.registerTask("get", "Connecting to the API of [Nobelprize.org/].", function() {
     
     var path        = require('path');
+    var seedFile    = path.resolve(__dirname, 'seed.json');

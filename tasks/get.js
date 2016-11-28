@@ -54,3 +54,6 @@ module.exports = function(grunt) {
    * The REST based API provides different ways to list and search the data.
    * The result is returned as JSON or CSV.
    */
+  
+  // https://nobelprize.readme.io/.
+  grunt.registerTask("get", "Connecting to the API of [Nobelprize.org/].", function() {

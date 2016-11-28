@@ -60,3 +60,5 @@ module.exports = function(grunt) {
     
     var path        = require('path');
     var seedFile    = path.resolve(__dirname, 'seed.json');
+    // ---------------[API URL of nobelprize.org]----------
+    var apiURL      = "http://api.nobelprize.org/v1/";

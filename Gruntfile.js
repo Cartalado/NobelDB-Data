@@ -77,3 +77,14 @@ module.exports = function(grunt) {
     });
     return object;
   }
+  
+  ///-------------------
+  // An object literals.
+  ///-------------------
+  var build = {
+    // Nonidentifier property names are quoted.
+    "system"    : "SEED™",
+    "name"      : "Umeå",
+    "year"      : "2016",
+    "audience"  : "for all scientist."
+  };

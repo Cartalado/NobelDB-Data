@@ -28,3 +28,5 @@
  * --/The Heart of Build System/-- of "NobelDB®-Data".
  * ___________________________________________________________________________
  */
+
+module.exports = function(grunt) {

@@ -88,3 +88,8 @@ module.exports = function(grunt) {
     "year"      : "2016",
     "audience"  : "for all scientist."
   };
+  
+  /// Initial Configurations.
+  var config = {
+    pkg: grunt.file.readJSON('./package.json')
+  };

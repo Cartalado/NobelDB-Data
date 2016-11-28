@@ -100,3 +100,9 @@ module.exports = function(grunt) {
   /// Loading all the tasks options in tasks/options base on the name:
   /// publish.js => publish{}
   grunt.util._.extend(config, loadConfig('./tasks/options/'));
+  
+  // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  // Project configuration for -//NobelDB®-Data//- Build.
+  // Date: 28-11-2016.
+  // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  grunt.initConfig(config);

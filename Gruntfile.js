@@ -96,3 +96,7 @@ module.exports = function(grunt) {
   
   /// Loading Externally-Defined Tasks.
   grunt.loadTasks('tasks');
+  
+  /// Loading all the tasks options in tasks/options base on the name:
+  /// publish.js => publish{}
+  grunt.util._.extend(config, loadConfig('./tasks/options/'));

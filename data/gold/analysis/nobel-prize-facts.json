@@ -1,0 +1,71 @@
+{
+  "nobel-prize-facts": {
+    "analysed": true,
+    "total": 579,
+    "laureates": 911,
+    "share": {
+      "0": {
+        "chemistry": null,
+        "economics": null,
+        "literature": null,
+        "medicine": null,
+        "peace": null,
+        "physics": null
+      },
+      "1": {
+        "chemistry": 63,
+        "economics": 24,
+        "literature": 105,
+        "medicine": 39,
+        "peace": 66,
+        "physics": 47
+      },
+      "2": {
+        "chemistry": 22,
+        "economics": 18,
+        "literature": 4,
+        "medicine": 31,
+        "peace": 29,
+        "physics": 32
+      },
+      "3": {
+        "chemistry": 23,
+        "economics": 6,
+        "literature": 0,
+        "medicine": 37,
+        "peace": 2,
+        "physics": 31
+      },
+      "4": {
+        "chemistry": null,
+        "economics": null,
+        "literature": null,
+        "medicine": null,
+        "peace": null,
+        "physics": null
+      }
+    }
+  },
+  "report": {
+    "url": "http://rpubs.com/nobeldb/221359"
+  },
+  "author": {
+    "name": "Prabhat Kumar",
+    "email": "prabhat.genome@gmail.com",
+    "url": "http://prabhatkumar.org/"
+  },
+  "maintainers": [
+    {
+      "name": "Sequømics Research",
+      "email": "sequomics.research@gmail.com",
+      "url": "http://research.sequomics.com/"
+    },
+    {
+      "name": "Sequømics",
+      "email": "sequomics@gmail.com",
+      "url": "http://sequomics.com/"
+    }
+  ],
+  "license": "Apache-2.0",
+  "version": "0.0.1"
+}

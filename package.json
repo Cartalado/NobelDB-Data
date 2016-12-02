@@ -1,0 +1,71 @@
+{
+  "name": "nobeldb-data",
+  "version": "0.0.5",
+  "description": "Data of NobelDB — A manually curated dedicated database of Nobel Laureates.",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "lib/index.js",
+    "lib/commands.js",
+    "lib/config.js",
+    "lib/version.js"
+  ],
+  "scripts": {
+    "test": "grunt test",
+    "prepublish": "grunt clear"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NobelDB/NobelDB-Data.git"
+  },
+  "keywords": [
+    "NobelDB",
+    "Database",
+    "Laureates",
+    "Nobel"
+  ],
+  "author": {
+    "name": "Sequømics Research",
+    "email": "sequomics.research@gmail.com",
+    "url": "http://research.sequomics.com/"
+  },
+  "maintainers": [
+    {
+      "name": "Prabhat Kumar",
+      "email": "prabhat.genome@gmail.com",
+      "url": "http://prabhatkumar.org/"
+    },
+    {
+      "name": "Sequømics",
+      "email": "sequomics@gmail.com",
+      "url": "http://sequomics.com/"
+    }
+  ],
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/NobelDB/NobelDB-Data/issues"
+  },
+  "homepage": "https://github.com/NobelDB/NobelDB-Data#readme",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "glob": "^7.1.1"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-version": "^0.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-jsonlint": "^1.1.0",
+    "grunt-minjson": "^0.4.0",
+    "inquirer": "^1.2.3",
+    "load-grunt-tasks": "^3.5.2",
+    "time-grunt": "^1.4.0"
+  },
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}

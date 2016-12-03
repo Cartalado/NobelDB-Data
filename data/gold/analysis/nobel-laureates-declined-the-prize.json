@@ -1,0 +1,46 @@
+{
+  "nobel-laureates-declined-the-prize": {
+    "analysed": true,
+    "total": 2,
+    "duration": "1901 - 2016",
+    "prefix": "http://www.nobelprize.org/nobel_prizes/",
+    "name": {
+      "Jean-Paul Sartre": {
+        "Category": "Literature",
+        "Year": 1964,
+        "Date of Birth": "21 June 1905",
+        "motivation": "\"for his work which, rich in ideas and filled with the spirit of freedom and the quest for truth, has exerted a far-reaching influence on our age\"",
+        "page": "literature/laureates/1964/index.html"
+      },
+      "Le Duc Tho": {
+        "Category": "Peace",
+        "Year": 1973,
+        "Date of Birth": "14 October 1911",
+        "motivation": "\"for negotiating the Vietnam peace accord\"",
+        "page": "peace/laureates/1973/index.html"
+      }
+    }
+  },
+  "report": {
+    "url": "http://rpubs.com/nobeldb/221359"
+  },
+  "author": {
+    "name": "Prabhat Kumar",
+    "email": "prabhat.genome@gmail.com",
+    "url": "http://prabhatkumar.org/"
+  },
+  "maintainers": [
+    {
+      "name": "Sequømics Research",
+      "email": "sequomics.research@gmail.com",
+      "url": "http://research.sequomics.com/"
+    },
+    {
+      "name": "Sequømics",
+      "email": "sequomics@gmail.com",
+      "url": "http://sequomics.com/"
+    }
+  ],
+  "license": "Apache-2.0",
+  "version": "0.0.1"
+}

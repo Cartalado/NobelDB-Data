@@ -1,0 +1,123 @@
+{
+  "oldest-nobel-laureates": {
+    "analysed": true,
+    "total": 13,
+    "duration": "1901 - 2016",
+    "prefix": "http://www.nobelprize.org/nobel_prizes/",
+    "name": {
+      "Leonid Hurwicz": {
+        "Category": "Economic Sciences",
+        "Year": 2007,
+        "Date of Birth": "21 August 1917",
+        "Age": 90,
+        "page": "economics/laureates/2007/index.html"
+      },
+      "Lloyd Shapley": {
+        "Category": "Economic Sciences",
+        "Year": 2012,
+        "Date of Birth": "2 June 1923",
+        "Age": 89,
+        "page": "economics/laureates/2012/index.html"
+      },
+      "Raymond Davis Jr.": {
+        "Category": "Physics",
+        "Year": 2002,
+        "Date of Birth": "14 October 1914",
+        "Age": 88,
+        "page": "physics/laureates/2002/index.html"
+      },
+      "Doris Lessing": {
+        "Category": "Literature",
+        "Year": 2007,
+        "Date of Birth": "22 October 1919",
+        "Age": 88,
+        "page": "literature/laureates/2007/index.html"
+      },
+      "Yoichiro Nambu": {
+        "Category": "Physics",
+        "Year": 2008,
+        "Date of Birth": "18 January 1921",
+        "Age": 87,
+        "page": "physics/laureates/2008/index.html"
+      },
+      "Vitaly L. Ginzburg": {
+        "Category": "Physics",
+        "Year": 2003,
+        "Date of Birth": "4 October 1916",
+        "Age": 87,
+        "page": "physics/laureates/2003/index.html"
+      },
+      "Peyton Rous": {
+        "Category": "Medicine",
+        "Year": 1966,
+        "Date of Birth": "5 October 1879",
+        "Age": 87,
+        "page": "medicine/laureates/1966/index.html"
+      },
+      "Joseph Rotblat": {
+        "Category": "Peace",
+        "Year": 1995,
+        "Date of Birth": "4 November 1908",
+        "Age": 87,
+        "page": "peace/laureates/1995/index.html"
+      },
+      "Karl von Frisch": {
+        "Category": "Medicine",
+        "Year": 1973,
+        "Date of Birth": "20 November 1886",
+        "Age": 87,
+        "page": "medicine/laureates/1973/index.html"
+      },
+      "Ferdinand Buisson": {
+        "Category": "Peace",
+        "Year": 1927,
+        "Date of Birth": "20 December 1841",
+        "Age": 85,
+        "page": "peace/laureates/1927/index.html"
+      },
+      "John B. Fenn": {
+        "Category": "Chemistry",
+        "Year": 2002,
+        "Date of Birth": "15 June 1917",
+        "Age": 85,
+        "page": "chemistry/laureates/2002/index.html"
+      },
+      "Theodor Mommsen": {
+        "Category": "Literature",
+        "Year": 1902,
+        "Date of Birth": "30 November 1817",
+        "Age": 85,
+        "page": "literature/laureates/1902/index.html"
+      },
+      "Willard S. Boyle": {
+        "Category": "Physics",
+        "Year": 2009,
+        "Date of Birth": "19 August 1929",
+        "Age": 85,
+        "page": "physics/laureates/2009/index.html"
+      }
+    }
+  },
+  "report": {
+    "url": "http://rpubs.com/nobeldb/221359"
+  },
+  "author": {
+    "name": "Prabhat Kumar",
+    "email": "prabhat.genome@gmail.com",
+    "url": "http://prabhatkumar.org/"
+  },
+  "maintainers": [
+    {
+      "name": "Sequømics Research",
+      "email": "sequomics.research@gmail.com",
+      "url": "http://research.sequomics.com/"
+    },
+    {
+      "name": "Sequømics",
+      "email": "sequomics@gmail.com",
+      "url": "http://sequomics.com/"
+    }
+  ],
+  "license": "Apache-2.0",
+  "version": "0.0.1"
+}

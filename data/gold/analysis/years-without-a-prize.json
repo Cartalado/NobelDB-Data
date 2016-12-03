@@ -1,0 +1,56 @@
+{
+  "years-without-a-prize": {
+    "analysed": true,
+    "total": 49,
+    "why": "Most of them during World War I (1914-1918) and II (1939-1945).",
+    "says": "If none of the works under consideration is found to be of the importance indicated in the first paragraph, the prize money shall be reserved until the following year. If, even then, the prize cannot be awarded, the amount shall be added to the Foundation's restricted funds.",
+    "category": {
+      "all": {
+        "chemistry": "1916, 1917, 1919, 1924, 1933, 1940, 1941, 1942",
+        "economics": null,
+        "literature": "1914, 1918, 1935, 1940, 1941, 1942, 1943",
+        "medicine": "1915, 1916, 1917, 1918, 1921, 1925, 1940, 1941, 1942",
+        "peace": "1914, 1915, 1916, 1918, 1923, 1924, 1928, 1932, 1939, 1940, 1941, 1942, 1943, 1948, 1955, 1956, 1966, 1967, 1972",
+        "physics": "1916, 1931, 1934, 1940, 1941, 1942"
+      },
+      "1914-1918": {
+        "chemistry": "1916, 1917",
+        "economics": null,
+        "literature": "1914, 1918",
+        "medicine": "1915, 1916, 1917, 1918",
+        "peace": "1914, 1915, 1916, 1918",
+        "physics": "1916"
+      },
+      "1939-1945": {
+        "chemistry": "1940, 1941, 1942",
+        "economics": null,
+        "literature": "1940, 1941, 1942, 1943",
+        "medicine": "1940, 1941, 1942",
+        "peace": "1939, 1940, 1941, 1942, 1943",
+        "physics": "1940, 1941, 1942"
+      }
+    }
+  },
+  "report": {
+    "url": "http://rpubs.com/nobeldb/221359"
+  },
+  "author": {
+    "name": "Prabhat Kumar",
+    "email": "prabhat.genome@gmail.com",
+    "url": "http://prabhatkumar.org/"
+  },
+  "maintainers": [
+    {
+      "name": "Sequømics Research",
+      "email": "sequomics.research@gmail.com",
+      "url": "http://research.sequomics.com/"
+    },
+    {
+      "name": "Sequømics",
+      "email": "sequomics@gmail.com",
+      "url": "http://sequomics.com/"
+    }
+  ],
+  "license": "Apache-2.0",
+  "version": "0.0.1"
+}

@@ -1,0 +1,123 @@
+{
+  "youngest-nobel-laureates": {
+    "analysed": true,
+    "total": 13,
+    "duration": "1901 - 2016",
+    "prefix": "http://www.nobelprize.org/nobel_prizes/",
+    "name": {
+      "Malala Yousafzai": {
+        "Category": "Peace",
+        "Year": 2014,
+        "Date of Birth": "12 July 1997",
+        "Age": 17,
+        "page": "peace/laureates/2014/index.html"
+      },
+      "Lawrence Bragg": {
+        "Category": "Physics",
+        "Year": 1915,
+        "Date of Birth": "31 March 1890",
+        "Age": 25,
+        "page": "physics/laureates/1915/index.html"
+      },
+      "Werner Heisenberg": {
+        "Category": "Physics",
+        "Year": 1932,
+        "Date of Birth": "5 December 1901",
+        "Age": 31,
+        "page": "physics/laureates/1932/index.html"
+      },
+      "Tsung-Dao Lee": {
+        "Category": "Physics",
+        "Year": 1957,
+        "Date of Birth": "24 November 1926",
+        "Age": 31,
+        "page": "physics/laureates/1957/index.html"
+      },
+      "Carl D. Anderson": {
+        "Category": "Physics",
+        "Year": 1936,
+        "Date of Birth": "3 September 1905",
+        "Age": 31,
+        "page": "physics/laureates/1936/index.html"
+      },
+      "Paul A. M. Dirac": {
+        "Category": "Physics",
+        "Year": 1933,
+        "Date of Birth": "8 August 1902",
+        "Age": 31,
+        "page": "physics/laureates/1933/index.html"
+      },
+      "Frederick G. Banting": {
+        "Category": "Medicine",
+        "Year": 1923,
+        "Date of Birth": "14 November 1891",
+        "Age": 32,
+        "page": "medicine/laureates/1923/index.html"
+      },
+      "Tawakkol Karman": {
+        "Category": "Peace",
+        "Year": 2011,
+        "Date of Birth": "7 February 1979",
+        "Age": 32,
+        "page": "peace/laureates/2011/index.html"
+      },
+      "Rudolf Mössbauer": {
+        "Category": "Physics",
+        "Year": 1961,
+        "Date of Birth": "31 January 1929",
+        "Age": 32,
+        "page": "physics/laureates/1961/index.html"
+      },
+      "Mairead Corrigan": {
+        "Category": "Peace",
+        "Year": 1976,
+        "Date of Birth": "27 January 1944",
+        "Age": 32,
+        "page": "peace/laureates/1976/index.html"
+      },
+      "Joshua Lederberg": {
+        "Category": "Medicine",
+        "Year": 1958,
+        "Date of Birth": "23 May 1925",
+        "Age": 33,
+        "page": "medicine/laureates/1958/index.html"
+      },
+      "Betty Williams": {
+        "Category": "Peace",
+        "Year": 1976,
+        "Date of Birth": "22 May 1943",
+        "Age": 33,
+        "page": "peace/laureates/1976/index.html"
+      },
+      "Rigoberta Menchú Tum": {
+        "Category": "Peace",
+        "Year": 1992,
+        "Date of Birth": "9 January 1959",
+        "Age": 33,
+        "page": "peace/laureates/1992/index.html"
+      }
+    }
+  },
+  "report": {
+    "url": "http://rpubs.com/nobeldb/221359"
+  },
+  "author": {
+    "name": "Prabhat Kumar",
+    "email": "prabhat.genome@gmail.com",
+    "url": "http://prabhatkumar.org/"
+  },
+  "maintainers": [
+    {
+      "name": "Sequømics Research",
+      "email": "sequomics.research@gmail.com",
+      "url": "http://research.sequomics.com/"
+    },
+    {
+      "name": "Sequømics",
+      "email": "sequomics@gmail.com",
+      "url": "http://sequomics.com/"
+    }
+  ],
+  "license": "Apache-2.0",
+  "version": "0.0.1"
+}

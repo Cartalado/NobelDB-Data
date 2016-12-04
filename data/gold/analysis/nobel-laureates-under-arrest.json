@@ -1,0 +1,53 @@
+{
+  "nobel-laureates-under-arrest-at-the-time-of-the-award": {
+    "analysed": true,
+    "total": 3,
+    "duration": "1901 - 2016",
+    "prefix": "http://www.nobelprize.org/nobel_prizes/",
+    "name": {
+      "Carl von Ossietzky": {
+        "Category": "Peace",
+        "Year": 1935,
+        "Date of Birth": "3 October 1889",
+        "fact": "\"Carl von Ossietzky received his Nobel Prize one year later, in 1936\"",
+        "page": "peace/laureates/1935/index.html"
+      },
+      "Aung San Suu Kyi": {
+        "Category": "Peace",
+        "Year": 1991,
+        "Date of Birth": "19 June 1945",
+        "motivation": "\"for her non-violent struggle for democracy and human rights\"",
+        "page": "peace/laureates/1991/index.html"
+      },
+      "Liu Xiaobo": {
+        "Category": "Peace",
+        "Year": 2010,
+        "Date of Birth": "28 December 1955",
+        "motivation": "\"for his long and non-violent struggle for fundamental human rights in China\"",
+        "page": "peace/laureates/2010/index.html"
+      }
+    }
+  },
+  "report": {
+    "url": "http://rpubs.com/nobeldb/221359"
+  },
+  "author": {
+    "name": "Prabhat Kumar",
+    "email": "prabhat.genome@gmail.com",
+    "url": "http://prabhatkumar.org/"
+  },
+  "maintainers": [
+    {
+      "name": "Sequømics Research",
+      "email": "sequomics.research@gmail.com",
+      "url": "http://research.sequomics.com/"
+    },
+    {
+      "name": "Sequømics",
+      "email": "sequomics@gmail.com",
+      "url": "http://sequomics.com/"
+    }
+  ],
+  "license": "Apache-2.0",
+  "version": "0.0.1"
+}

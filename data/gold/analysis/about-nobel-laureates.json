@@ -1,0 +1,28 @@
+{
+  "about-nobel-laureates": {
+    "question": "\"Why are the individuals and organisations awarded a Nobel Prize called Nobel Laureates?\"",
+    "answer": "\"The word 'Laureate' refers to being signified by the laurel wreath. In Greek mythology, the god Apollo is represented wearing a laurel wreath on his head. A laurel wreath is a circular crown made of branches and leaves of the bay laurel (in Latin: Laurus nobilis). In Ancient Greece, laurel wreaths were awarded to victors as a sign of honour - both in athletic competitions and in poetic meets.\""
+  },
+  "report": {
+    "url": "http://rpubs.com/nobeldb/221359"
+  },
+  "author": {
+    "name": "Prabhat Kumar",
+    "email": "prabhat.genome@gmail.com",
+    "url": "http://prabhatkumar.org/"
+  },
+  "maintainers": [
+    {
+      "name": "Sequømics Research",
+      "email": "sequomics.research@gmail.com",
+      "url": "http://research.sequomics.com/"
+    },
+    {
+      "name": "Sequømics",
+      "email": "sequomics@gmail.com",
+      "url": "http://sequomics.com/"
+    }
+  ],
+  "license": "Apache-2.0",
+  "version": "0.0.1"
+}

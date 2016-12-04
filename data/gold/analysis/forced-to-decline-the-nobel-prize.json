@@ -1,0 +1,64 @@
+{
+  "forced-to-decline-the-nobel-prize": {
+    "analysed": true,
+    "total": 4,
+    "duration": "1901 - 2016",
+    "prefix": "http://www.nobelprize.org/nobel_prizes/",
+    "name": {
+      "Richard Kuhn": {
+        "Category": "Chemistry",
+        "Year": 1938,
+        "Date of Birth": "3 December 1900",
+        "motivation": "\"for his work on carotenoids and vitamins\"",
+        "reason": "\"Richard Kuhn was caused by the authorities of his country to decline the award, but he later received the diploma and the medal\"",
+        "page": "chemistry/laureates/1938/index.html"
+      },
+      "Adolf Butenandt": {
+        "Category": "Chemistry",
+        "Year": 1939,
+        "Date of Birth": "24 March 1903",
+        "motivation": "\"for his work on sex hormones\"",
+        "reason": "\"Adolf Butenandt was caused by the authorities of his country to decline the award but he later received the diploma and the medal\"",
+        "page": "chemistry/laureates/1939/index.html"
+      },
+      "Gerhard Domagk": {
+        "Category": "Medicine",
+        "Year": 1939,
+        "Date of Birth": "30 October 1895",
+        "motivation": "\"for the discovery of the antibacterial effects of prontosil\"",
+        "reason": "\"Gerhard Domagk was caused by the authorities of his country to decline the award but he later received the diploma and the medal\"",
+        "page": "medicine/laureates/1939/index.html"
+      },
+      "Boris Leonidovich Pasternak": {
+        "Category": "Literature",
+        "Year": 1958,
+        "Date of Birth": "10 February 1890",
+        "motivation": "\"for his important achievement both in contemporary lyrical poetry and in the field of the great Russian epic tradition\"",
+        "reason": "\"Boris Pasternak first accepted the award, but was later caused by the authorities of his country to decline the prize\"",
+        "page": "literature/laureates/1958/index.html"
+      }
+    }
+  },
+  "report": {
+    "url": "http://rpubs.com/nobeldb/221359"
+  },
+  "author": {
+    "name": "Prabhat Kumar",
+    "email": "prabhat.genome@gmail.com",
+    "url": "http://prabhatkumar.org/"
+  },
+  "maintainers": [
+    {
+      "name": "Sequømics Research",
+      "email": "sequomics.research@gmail.com",
+      "url": "http://research.sequomics.com/"
+    },
+    {
+      "name": "Sequømics",
+      "email": "sequomics@gmail.com",
+      "url": "http://sequomics.com/"
+    }
+  ],
+  "license": "Apache-2.0",
+  "version": "0.0.1"
+}

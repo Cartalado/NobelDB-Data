@@ -42,6 +42,11 @@ module.exports = function(grunt) {
   var yeep     = chalk.green;
   var okay     = chalk.blue;
   
+  // Compatibility with Grunt defined.
+  if (grunt.utils) {
+    grunt.fatal(noop('grunt get is only compatible with Grunt v0.4.0+'));
+  }
+  
   /*!
    * Getting Started with Nobel Prize API
    * ------------------------------------

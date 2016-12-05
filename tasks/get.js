@@ -99,3 +99,6 @@ module.exports = function(grunt) {
      -c, --config <key=value>
                           set config inside the new repository
     */
+    
+    // JSON file(s), that have to download via Grunt Task.
+    var fileNames = ['country.json', 'laureate.json', 'prize.json'];
